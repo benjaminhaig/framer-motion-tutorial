@@ -11,6 +11,7 @@ function App() {
       <Square />
       <Circle />
       <Triangle />
+      <h2 className='text-3xl text-gray-700'>If you found this content helpful, please subscribe :)</h2>
     </section>
 
   );
